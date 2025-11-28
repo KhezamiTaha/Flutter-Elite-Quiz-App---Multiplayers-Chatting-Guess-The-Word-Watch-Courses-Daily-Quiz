@@ -2,7 +2,9 @@
 
 Compact README for the Elite Quiz project. Use this as the canonical starting point for development, testing and releases.
 
-- Demo : [youtube]()
+App Video Previews:  
+[Programmin Quiz App](https://youtu.be/L1SAxGsNOrA)  
+[Language Quiz App](https://youtu.be/_7fr9AZl5RE)
 
 <h2><img src="assets/images/screenshots/welcome_page.png" alt="Home screenshot" width="900" /></h2>
 
@@ -166,8 +168,6 @@ Place screenshots into `assets/images/screenshots/` and reference below:
 
 <p>Watch Video and Answer:</p>
 <img src="assets/images/screenshots/5.png" alt="Watch Video screenshot" height="500" />
-
-
 
 Add images to repo and commit.
 
