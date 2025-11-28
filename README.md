@@ -4,11 +4,11 @@ Compact README for the Elite Quiz project. Use this as the canonical starting po
 
 - Demo : [youtube]()
 
-<h2><img src="assets/images/screenshots/welcome_page.png" alt="Home screenshot" width="500" /></h2>
+<h2><img src="assets/images/screenshots/welcome_page.png" alt="Home screenshot" width="900" /></h2>
 
-<h2><img src="assets/images/screenshots/levels_screenshots.png" alt="Levels screenshot" width="500" /></h2>
+<h2><img src="assets/images/screenshots/levels_screenshots.png" alt="Levels screenshot" width="900" /></h2>
 
-<h2><img src="assets/images/screenshots/dark_screenshot.png" alt="Multiplayer screenshot" width="500" /></h2>
+<h2><img src="assets/images/screenshots/dark_screenshot.png" alt="Multiplayer screenshot" width="900" /></h2>
 
 ## Quick overview
 
@@ -150,7 +150,7 @@ Selected dependencies (high level)
 Place screenshots into `assets/images/screenshots/` and reference below:
 
 <p>App home:</p>
-<img src="assets/images/screenshots/1.png" alt="Home screenshot" width="500" />
+<img src="assets/images/screenshots/1.png" alt="Home screenshot" height="500" />
 
 ---
 
@@ -160,12 +160,12 @@ Place screenshots into `assets/images/screenshots/` and reference below:
 ---
 
 <p>Guess The Word:</p>
-<img src="assets/images/screenshots/4.png" alt="Guess The Word screenshot" width="500" />
+<img src="assets/images/screenshots/4.png" alt="Guess The Word screenshot" height="500" />
 
 ---
 
 <p>Watch Video and Answer:</p>
-<img src="assets/images/screenshots/5.png" alt="Watch Video screenshot" width="500" />
+<img src="assets/images/screenshots/5.png" alt="Watch Video screenshot" height="500" />
 
 
 
