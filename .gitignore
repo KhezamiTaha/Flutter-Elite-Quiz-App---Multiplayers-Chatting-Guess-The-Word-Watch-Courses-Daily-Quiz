@@ -54,5 +54,5 @@ app.*.map.json
 
 # specefic files as api secrets to ignore
 firebase_options.dart
-android/app/google-services.json
+android/app/google-services.json 
 .gitignore

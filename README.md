@@ -2,13 +2,13 @@
 
 Compact README for the Elite Quiz project. Use this as the canonical starting point for development, testing and releases.
 
--  Demo : [youtube]()
+- Demo : [youtube]()
 
-## ![Home screenshot](assets\images\screenshots\welcome_page.png)
+## ![Home screenshot](assets/images/screenshots/welcome_page.png)
 
-## ![Levels screenshot](assets\images\screenshots\levels_screenshots.png)
+## ![Levels screenshot](assets/images/screenshots/levels_screenshots.png)
 
-## ![Multiplayer screenshot](assets\images\screenshots\dark_screenshot.png)
+## ![Multiplayer screenshot](assets/images/screenshots/dark_screenshot.png)
 
 ## Quick overview
 
@@ -150,7 +150,7 @@ Selected dependencies (high level)
 Place screenshots into `assets/images/screenshots/` and reference below:
 
 - App home: ![Home screenshot](assets/images/screenshots/1.png)
-- Quiz play: ![Quiz screenshot](assets\images\screenshots\play_screenshot.png)
+- Quiz play: ![Quiz screenshot](assets/images/screenshots/play_screenshot.png)
 - Guess The Word: ![Guess The Word screenshot](assets/images/screenshots/4.png)
 - Watch Video and Answer: ![Watch Video screenshot](assets/images/screenshots/5.png)
 
