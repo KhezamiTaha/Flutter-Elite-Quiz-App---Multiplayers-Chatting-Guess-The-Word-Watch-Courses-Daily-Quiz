@@ -149,12 +149,24 @@ Selected dependencies (high level)
 
 Place screenshots into `assets/images/screenshots/` and reference below:
 
-<ul>
-  <li>App home: <img src="assets/images/screenshots/1.png" alt="Home screenshot" width="500" /></li>
-  <li>Quiz play: <img src="assets/images/screenshots/play_screenshot.png" alt="Quiz screenshot" width="500" /></li>
-  <li>Guess The Word: <img src="assets/images/screenshots/4.png" alt="Guess The Word screenshot" width="500" /></li>
-  <li>Watch Video and Answer: <img src="assets/images/screenshots/5.png" alt="Watch Video screenshot" width="500" /></li>
-</ul>
+<p>App home:</p>
+<img src="assets/images/screenshots/1.png" alt="Home screenshot" width="500" />
+
+---
+
+<p>Quiz play:</p>
+<img src="assets/images/screenshots/play_screenshot.png" alt="Quiz screenshot" width="500" />
+
+---
+
+<p>Guess The Word:</p>
+<img src="assets/images/screenshots/4.png" alt="Guess The Word screenshot" width="500" />
+
+---
+
+<p>Watch Video and Answer:</p>
+<img src="assets/images/screenshots/5.png" alt="Watch Video screenshot" width="500" />
+
 
 
 Add images to repo and commit.
