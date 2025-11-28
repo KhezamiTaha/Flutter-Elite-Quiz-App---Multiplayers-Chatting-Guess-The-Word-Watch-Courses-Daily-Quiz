@@ -6,6 +6,8 @@ App Video Previews:
 [Programmin Quiz App](https://youtu.be/L1SAxGsNOrA)  
 [Language Quiz App](https://youtu.be/_7fr9AZl5RE)
 
+---
+
 <h2><img src="assets/images/screenshots/welcome_page.png" alt="Home screenshot" width="900" /></h2>
 
 <h2><img src="assets/images/screenshots/levels_screenshots.png" alt="Levels screenshot" width="900" /></h2>
