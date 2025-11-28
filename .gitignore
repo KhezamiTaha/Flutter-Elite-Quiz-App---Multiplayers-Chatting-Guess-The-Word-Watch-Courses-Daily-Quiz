@@ -50,3 +50,9 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .fvm/flutter_sdk
+
+
+# specefic files as api secrets to ignore
+firebase_options.dart
+android/app/google-services.json
+.gitignore
