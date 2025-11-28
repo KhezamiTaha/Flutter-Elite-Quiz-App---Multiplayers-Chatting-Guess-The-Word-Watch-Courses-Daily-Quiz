@@ -4,11 +4,11 @@ Compact README for the Elite Quiz project. Use this as the canonical starting po
 
 - Demo : [youtube]()
 
-## ![Home screenshot](assets/images/screenshots/welcome_page.png)
+<h2><img src="assets/images/screenshots/welcome_page.png" alt="Home screenshot" width="500" /></h2>
 
-## ![Levels screenshot](assets/images/screenshots/levels_screenshots.png)
+<h2><img src="assets/images/screenshots/levels_screenshots.png" alt="Levels screenshot" width="500" /></h2>
 
-## ![Multiplayer screenshot](assets/images/screenshots/dark_screenshot.png)
+<h2><img src="assets/images/screenshots/dark_screenshot.png" alt="Multiplayer screenshot" width="500" /></h2>
 
 ## Quick overview
 
@@ -149,10 +149,13 @@ Selected dependencies (high level)
 
 Place screenshots into `assets/images/screenshots/` and reference below:
 
-- App home: ![Home screenshot](assets/images/screenshots/1.png)
-- Quiz play: ![Quiz screenshot](assets/images/screenshots/play_screenshot.png)
-- Guess The Word: ![Guess The Word screenshot](assets/images/screenshots/4.png)
-- Watch Video and Answer: ![Watch Video screenshot](assets/images/screenshots/5.png)
+<ul>
+  <li>App home: <img src="assets/images/screenshots/1.png" alt="Home screenshot" width="500" /></li>
+  <li>Quiz play: <img src="assets/images/screenshots/play_screenshot.png" alt="Quiz screenshot" width="500" /></li>
+  <li>Guess The Word: <img src="assets/images/screenshots/4.png" alt="Guess The Word screenshot" width="500" /></li>
+  <li>Watch Video and Answer: <img src="assets/images/screenshots/5.png" alt="Watch Video screenshot" width="500" /></li>
+</ul>
+
 
 Add images to repo and commit.
 
